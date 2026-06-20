@@ -82,7 +82,7 @@ print("------10 Column-wise Statistics------")
 'Average marks per subject'
 import numpy as np 
 students = np.array([
-     [85, 90, 88],
+    [85, 90, 88],
     [70, 75, 80],
     [95, 92, 96]
 ])
