@@ -15,7 +15,6 @@ print(type(arr))
 print("------2 Basic Statistics------")
 import numpy as np
 data = np.array([12,14,16,15,13])
-
 print("Mean:", np.mean(data))
 print("Median:",np.median(data))
 print("Min:", np.min(data))
@@ -23,7 +22,6 @@ print("Max:", np.max(data))
 
 #3 Standard Deviation
 print("------3 Standard Deviation------")
-
 import numpy as np
 scores = np.array([70,75,80,85,90])
 print("Mean", np.mean(scores))

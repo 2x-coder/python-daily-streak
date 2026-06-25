@@ -1,13 +1,19 @@
 '''Creating a Dictionary'''
 elements = {
-    "H": 1,
+    "H" : 1,
     "He": 4,
     "Li": 6,
     "Be": 9,
-    "B": 10,
-    "C": 12,
-    "N": 14,
-    "O": 16,
+    "B" : 10,
+    "C" : 12,
+    "N" : 14,
+    "O" : 16,
+    "F" : 18,
+    "Ne": 20,
+    "Na": 23,
+    "Mg": 24,
+    "Al": 29,
+    
 }
 
 print("Molar Mass Calculator")

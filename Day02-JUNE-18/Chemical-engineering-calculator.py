@@ -3,8 +3,8 @@ print(mass, "kg")
 if mass <= 0:   
     print("mass cannot be zero or negative")
  
-volume= float(input("enter volume in kg: "))
-print(volume, "kg")
+volume = float(input("enter volume in m^3: "))
+print(volume, "m^3")
 if volume <= 0:   
     print("volume cannot be zero or negative")
  
